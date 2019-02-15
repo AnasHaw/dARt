@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{7D75B517-AEC0-B8B1-B4D7-CE3466130D8C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ReadyTxt.cs">
+    <Files>
+      <File FileName="Assets/Script/EmbedBehavior.cs" Line="24" Column="24" />
+      <File FileName="Assets/Script/KeepScore.cs" Line="27" Column="2" />
+      <File FileName="Assets/Script/LastScore.cs" Line="26" Column="5" />
+      <File FileName="Assets/Script/Time.cs" Line="6" Column="2" />
+      <File FileName="Assets/Script/Press_Space_to_Fire.cs" Line="61" Column="37" />
+      <File FileName="Assets/Script/ReadyTxt.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
